@@ -1,0 +1,8 @@
+lib
+GRAPHDATA
+GRAPHDATA_OUTPUT
+
+.venv
+build
+GraphReasoning.egg-info
+.cache
