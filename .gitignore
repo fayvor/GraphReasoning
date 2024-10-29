@@ -1,8 +1,12 @@
-lib
 GRAPHDATA
 GRAPHDATA_OUTPUT
 
-.venv
+lib
 build
-GraphReasoning.egg-info
+models
+
+.venv
+.vscode
 .cache
+
+GraphReasoning.egg-info
